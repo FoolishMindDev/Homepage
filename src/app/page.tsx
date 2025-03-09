@@ -6,7 +6,7 @@ export default function Home() {
       <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
         <Image
           className="dark:invert"
-          src="/foolishmind_logo_transparent.png"
+          src="/foolishmind_logo_image_circle.png"
           alt="FoolishMind logo"
           width={180}
           height={38}
