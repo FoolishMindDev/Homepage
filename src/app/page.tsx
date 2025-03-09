@@ -121,11 +121,11 @@ export default function Home() {
       <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
         <a
           className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5"
-          href="mailto:foolishmindcorp@gmail.com"
+          href="mailto:stay@foolishmind.dev"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Contact Us: foolishmindcorp@gmail.com
+          Contact Us: stay@foolishmind.dev
         </a>
       </footer>
     </div>
